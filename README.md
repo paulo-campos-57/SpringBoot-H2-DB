@@ -11,6 +11,7 @@ To run this project you will need this dependencies:
 -Spring Boot DevTools;
 -Spring Data JPA;
 -H2 Database;
+
 /-------------------------------------------------------/
 
 Crud feito com java usando SpringBoot conectando com Banco de dados H2
